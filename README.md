@@ -7,6 +7,6 @@ Python学习资料的搜集和整理，方便朋友们的学习...持续更新..
 
 - 大部分提供pdf电子书下载（链接：https://pan.baidu.com/s/14vDVg2HJFquHoCLKsEVOPg 提取码：rky1）
 
-## Python知识体系
+## [Python知识体系](https://class.imooc.com/sale/python2021)
 
 - 建议参考慕课网的Python体系课：[https://class.imooc.com/sale/python2021](https://class.imooc.com/sale/python2021)
